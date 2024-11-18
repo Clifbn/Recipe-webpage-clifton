@@ -92,7 +92,7 @@ body {
 }
 
 .hero { /* Parent with 100% width*/
-  background-image: url('/images/hero-image.jpeg');
+  background-image: url('images/hero-image.jpeg');
   width:var(--width-full);
   height:auto;
   min-height:600px;
@@ -478,7 +478,7 @@ i{
 
 
 .content_image {
-  background-image: url('/images/second-hero.jpeg');
+  background-image: url('images/second-hero.jpeg');
   width:var(--width-full);
   height:auto;
   min-height:600px;
@@ -530,7 +530,7 @@ i{
 
 .grid_area_top_left_block_image {
   flex: 1;
-  background-image: url('/images/platting\ dish.jpeg'); /*  image path */
+  background-image: url('images/platting\ dish.jpeg'); /*  image path */
   background-size: cover;
   background-position: center;
 }
@@ -614,7 +614,7 @@ i{
 
 .grid_area_middle_right_block_image {
   flex: 1;
-  background-image: url('/images/middle-pic.jpeg'); /*  image path */
+  background-image: url('images/middle-pic.jpeg'); /*  image path */
   background-size: cover;
   background-position: center;
 }
